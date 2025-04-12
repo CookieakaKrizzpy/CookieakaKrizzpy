@@ -1,31 +1,58 @@
-# Hi there, I'm CookieakaKrizzpy 👋
+# DanteDi 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuously learning new technologies. Here's a little bit about me:
+<p align="center">
+  <img src="DanteDiLogo.jpeg" alt="DanteDi Logo" width="150">
+</p>
+
+## Über mich
+
+Hallo! Ich bin DanteDi und mache derzeit eine **schulische Ausbildung zum Fachinformatiker für Anwendungsentwicklung**. Ich bin leidenschaftlich am Coden, beschäftige mich intensiv mit Open-Source-Projekten und lerne kontinuierlich neue Technologien. Zwar befinde ich mich noch in der Lernphase bei C#, JavaScript und Python, doch ich betrachte jeden Fehler als Chance – ich googele viel, probiere aus und nutze auch KI-Tools als Unterstützung. 
 
 ## 🔭 What I'm Working On
 
-- 💻 **WebServer:** A flexible and efficient web server designed to handle high traffic and provide fast response times.
-- 🤖 **DiscordBot:** A customizable bot for Discord that can perform a variety of tasks, from moderation to entertainment.
-- 🎮 **MinecraftBot:** An intelligent bot for Minecraft that can automate tasks, interact with players, and enhance the gaming experience.
-
-## 💬 Ask Me Nothing, thanks :) 
-
-## 📫 How to Reach Me
-
-👀
+- 💻 **WebServer:** Ein flexibler und effizienter Webserver, der für hohe Traffic-Auslastungen optimiert ist und schnelle Antwortzeiten liefert.
+- 🤖 **DiscordBot:** Ein anpassbarer Bot für Discord, der von Moderation bis Unterhaltung viele Aufgaben übernimmt.
+- 🎮 **MinecraftBot:** Ein intelligenter Bot für Minecraft, der Aufgaben automatisiert, mit Spielern interagiert und das Spielerlebnis verbessert.
 
 ## ⚡ Fun Fact
 
-I am currently training to become an IT specialist in application development. I learn the most by trying to fix my self-made mistakes.
+Ich lerne am meisten, indem ich meine selbstgemachten Fehler behebe – so wachse ich täglich und verbessere mich stetig!
 
-## 📈 GitHub Stats
+---
 
-![CookieakaKrizzpy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookieakaKrizzpy&show_icons=true&theme=radical)
+## 📊 GitHub Statistiken
 
-## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CookieakaKrizzpy&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CookieakaKrizzpy&theme=nord&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophäen">
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CookieakaKrizzpy&theme=onedark)
+---
 
-## 🔗 Connect with Me
+## 🛠️ Skills & Technologien
 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
+**Fokus-Sprachen (in Ausbildung):**  
+![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python Badge](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+## 📂 Fertige Projekte
+
+- **PortManager:** Ein Tool zur Verwaltung von lokalen Netzwerkports und Services – ideal, um Entwicklern eine übersichtliche Darstellung ihrer Verbindungen zu ermöglichen.  
+  *GitHub Repository:* [PortManager (Platzhalter-Link)](https://github.com/CookieakaKrizzpy/PortManager)
+
+---
+
+## 💬 Ask Me Nothing
+
+Ich stehe dir aktuell noch nicht zur Verfügung – für Fragen oder Anregungen sieh dir bitte meine Projekte und den Code an!
+
+---
+
+## 📫 Kontakt & Social Media
+
+[![Website](https://img.shields.io/badge/Website-dantedi.de-355443?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dantedi.de)

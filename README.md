@@ -8,7 +8,7 @@
 
 Hallo! Ich bin DanteDi und mache derzeit eine **schulische Ausbildung zum Fachinformatiker für Anwendungsentwicklung**. Ich bin leidenschaftlich am Coden, beschäftige mich intensiv mit Open-Source-Projekten und lerne kontinuierlich neue Technologien. Zwar befinde ich mich noch in der Lernphase bei C#, JavaScript und Python, doch ich betrachte jeden Fehler als Chance. 
 
-## 🔭 What I'm Working On
+## 🔭 An was ich aktuell arbeite oder verzweifle..
 
 - 💻 **WebServer:** Ein flexibler und effizienter Webserver, der für hohe Traffic-Auslastungen optimiert ist und schnelle Antwortzeiten liefert.
 - 🤖 **DiscordBot:** Ein anpassbarer Bot für Discord, der von Moderation bis Unterhaltung viele Aufgaben übernimmt.
@@ -47,7 +47,7 @@ Ich lerne am meisten, indem ich meine selbstgemachten Fehler behebe – so wachs
 
 ---
 
-## 💬 Ask Me Nothing
+## 💬 Fragen?
 
 Ich stehe dir aktuell noch nicht zur Verfügung – für Fragen oder Anregungen sieh dir bitte meine Projekte und den Code an!
 

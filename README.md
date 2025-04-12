@@ -43,7 +43,7 @@ Ich lerne am meisten, indem ich meine selbstgemachten Fehler behebe – so wachs
 ## 📂 Fertige Projekte
 
 - **PortManager:** Ein Tool zur Verwaltung von lokalen Netzwerkports und Services – ideal, um Entwicklern eine übersichtliche Darstellung ihrer Verbindungen zu ermöglichen.  
-  *GitHub Repository:* [PortManager (Platzhalter-Link)](https://github.com/CookieakaKrizzpy/PortManager)
+  *GitHub Repository:* [PortManager](https://github.com/CookieakaKrizzpy/PortManager)
 
 ---
 

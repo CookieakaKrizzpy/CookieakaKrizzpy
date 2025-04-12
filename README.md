@@ -6,7 +6,7 @@
 
 ## Über mich
 
-Hallo! Ich bin DanteDi und mache derzeit eine **schulische Ausbildung zum Fachinformatiker für Anwendungsentwicklung**. Ich bin leidenschaftlich am Coden, beschäftige mich intensiv mit Open-Source-Projekten und lerne kontinuierlich neue Technologien. Zwar befinde ich mich noch in der Lernphase bei C#, JavaScript und Python, doch ich betrachte jeden Fehler als Chance – ich googele viel, probiere aus und nutze auch KI-Tools als Unterstützung. 
+Hallo! Ich bin DanteDi und mache derzeit eine **schulische Ausbildung zum Fachinformatiker für Anwendungsentwicklung**. Ich bin leidenschaftlich am Coden, beschäftige mich intensiv mit Open-Source-Projekten und lerne kontinuierlich neue Technologien. Zwar befinde ich mich noch in der Lernphase bei C#, JavaScript und Python, doch ich betrachte jeden Fehler als Chance. 
 
 ## 🔭 What I'm Working On
 

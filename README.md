@@ -1,7 +1,7 @@
 # DanteDi 👋
 
 <p align="center">
-  <img src="DanteDiLogo.jpeg" alt="DanteDi Logo" width="150">
+  <img src="DanteDiLogo.jpeg?v=2" alt="DanteDi Logo" width="150">
 </p>
 
 ## Über mich

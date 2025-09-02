@@ -6,7 +6,7 @@
 
 ## About Me
 
-Greetings! I'm DanteDi, currently subjecting myself to vocational training as an IT Specialist for Application Development. My passions include diving headfirst into code, getting pleasantly lost in open-source projects, and constantly striving to learn new technologies. While my C#, JavaScript, and Python skills are still very much in their "awkward teenage phase," I've bravely decided to view every error as a golden opportunity... usually for more debugging.
+Greetings! I'm DanteDi, currently subjecting myself to vocational training as an IT Specialist for Application Development. My passions include diving headfirst into code, getting pleasantly lost in open-source projects, and constantly striving to learn new technologies. While my C#, JavaScript, and Python skills are still very much in their "awkward teenage phase", I've bravely decided to view every error as a golden opportunity... usually for more debugging.
 
 ## 🔭 What I'm currently building (or, more accurately, repeatedly breaking and then fixing):
 

@@ -6,16 +6,17 @@
 
 ## About Me
 
-Greetings! I'm DanteDi, currently subjecting myself to vocational training as an IT Specialist for Application Development. My passions include diving headfirst into code, getting pleasantly lost in open-source projects, and constantly striving to learn new technologies. While my C#, JavaScript, and Python skills are still very much in their "awkward teenage phase", I've bravely decided to view every error as a golden opportunity... usually for more debugging.
+Hey, ich bin DanteDi – IT-Azubi in der Anwendungsentwicklung mit einer echten Leidenschaft fürs Coden. Ich lerne am liebsten, indem ich einfach anfange – und unterwegs herausfinde, wie man es richtig macht. C#, JavaScript und Python sind meine täglichen Begleiter, und ich werde jeden Tag ein bisschen besser darin.
 
-## 🔭 What I'm currently building (or, more accurately, repeatedly breaking and then fixing):
+## 🔭 Woran ich gerade arbeite:
 
-- 💻 **WebServer:** A flexible, efficient, and hopefully robust WebServer, meticulously optimized for high traffic loads and promising response times so fast, they might actually outrun my own deadlines.
-- 🤖 **DiscordBot:** Unleashing a highly customizable Discord bot upon the unsuspecting masses, capable of everything from maintaining digital order (moderation) to providing chaotic entertainment.
+- 🤖 **DiscordBot:** Mein Herzprojekt. Ein vollständig anpassbarer Bot, den ich kontinuierlich weiterentwickle – von Moderation über Unterhaltung bis hin zu allem, was mir noch einfällt.
+- 📦 **Warenwirtschaftssystem:** Eine größere Herausforderung, an die ich mich mit vollem Einsatz heranwage. Ein echter Kundenauftrag – und eine gute Gelegenheit, über mich hinauszuwachsen.
+- 🎓 **IHK-Abschluss:** Auf der Zielgeraden meiner Ausbildung zum Fachinformatiker für Anwendungsentwicklung.
 
 ## ⚡ Fun Fact
 
-My entire learning process is essentially an elaborate loop of "Oops, that's a bug!" followed by "Aha! Now I know what *not* to do." It's a surprisingly effective, albeit humbling, path to daily growth and continuous improvement!
+Ich lerne am effektivsten durch echte Projekte. Jeder Bug ist dabei weniger ein Problem als ein Hinweis darauf, was ich als nächstes verstehen darf.
 
 ---
 
@@ -39,19 +40,18 @@ My entire learning process is essentially an elaborate loop of "Oops, that's a b
 
 ---
 
-## 📂 Finished Projects
+## 📂 Projekte
 
-- **PortManager:** A tool for managing local network ports and services – ideal for providing developers with a clear overview of their connections.  
-  *GitHub Repository:* [PortManager](https://github.com/CookieakaKrizzpy/PortManager)
+**Aktiv:**
+- 🤖 **DiscordBot** – Mein Herzblut-Projekt, immer in Entwicklung
+- 📦 **Warenwirtschaftssystem** – Kundenauftrag, aktuell in Arbeit
+
+**Abgeschlossen:**
+- **PortManager** – Übersicht über lokale Ports und Dienste  
+  *GitHub:* [PortManager](https://github.com/CookieakaKrizzpy/PortManager)
 
 ---
 
-## 💬 Questions?
-
-I am currently not available – for questions or suggestions, please check out my projects and code!
-
----
-
-## 📫 Contact & Social Media
+## 📫 Kontakt
 
 [![Website](https://img.shields.io/badge/Website-dantedi.de-355443?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dantedi.de)

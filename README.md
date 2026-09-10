@@ -38,7 +38,7 @@ Eigener Dedicated Server — selbst aufgesetzt, selbst gewartet. nginx auf dem H
 | | |
 |---|---|
 | Sprachen | C#, TypeScript/JavaScript, Python |
-| Frontend | React, Svelte, Next.js |
+| Frontend | React, Next.js |
 | Backend | Node.js/Express, .NET |
 | Infrastruktur | Linux, Docker, nginx, iptables |
 | Tools | Authelia, Infisical, MySQL, PostgreSQL |

@@ -4,10 +4,10 @@
   <img src="DanteDiLogo.jpeg?v=2" alt="DanteDi Logo" width="150">
 </p>
 
-Ich baue Dinge, die laufen.  
+Manchmal läuft es erst nach ein paar Fehlermeldungen richtig. Dann läuft es aber.  
 Auf eigenem Server, in eigenen Containern, mit echten Nutzern.
 
-**Anwendungsentwickler (IHK) · 07.07.2026**
+**Anwendungsentwickler (IHK) · seit 07.07.2026**
 
 ---
 
@@ -16,14 +16,20 @@ Auf eigenem Server, in eigenen Containern, mit echten Nutzern.
 **Discord Bot**  
 Produktivsystem mit Abo-Modell und bezahlenden Nutzern. Läuft 24/7 auf eigenem Dedicated Server hinter nginx und Authelia.
 
-**McBot**  
-Minecraft-Serververwaltung als Bot. Authentifizierung via Authelia, geschützt hinter nginx-Reverse-Proxy.
+**Discord Dashboard**  
+Web-Dashboard zum Bot — Konfiguration und Verwaltung außerhalb von Discord, ebenfalls hinter Authelia geschützt.
 
-**dantedi.de**  
-Eigener Dedicated Server — selbst aufgesetzt, selbst gewartet. nginx auf dem Host, alles andere in Docker. Monitoring via Grafana, Secrets via Infisical, tägliche und wöchentliche Backups.
+**MTG Arbitrage**  
+Tool zum Aufspüren von Preisunterschieden bei Magic-Karten zwischen verschiedenen Marktplätzen. React/TypeScript-Frontend, Python-Backend.
+
+**Webmail**  
+Eigener Webmail-Client (Node/Svelte) für dantedi.de — kein Reskin einer Standardlösung, sondern von Grund auf selbst gebaut.
 
 **GameServer**  
-Palworld und weitere Game-Server im selben Stack. Öffentlich erreichbar unter gameserver.dantedi.de.
+Palworld und weitere Game-Server im selben Stack, inkl. eigenem Status- und Verwaltungsdashboard. Öffentlich erreichbar unter gameserver.dantedi.de.
+
+**dantedi.de**  
+Eigener Dedicated Server — selbst aufgesetzt, selbst gewartet. nginx auf dem Host, alles andere in Docker. Secrets via Infisical, tägliche und wöchentliche Backups.
 
 ---
 
@@ -31,9 +37,11 @@ Palworld und weitere Game-Server im selben Stack. Öffentlich erreichbar unter g
 
 | | |
 |---|---|
-| Sprachen | C#, JavaScript, Python |
+| Sprachen | C#, TypeScript/JavaScript, Python |
+| Frontend | React, Svelte, Next.js |
+| Backend | Node.js/Express, .NET |
 | Infrastruktur | Linux, Docker, nginx, iptables |
-| Tools | Authelia, Grafana, Infisical, MySQL, PostgreSQL |
+| Tools | Authelia, Infisical, MySQL, PostgreSQL |
 
 ---
 

@@ -19,9 +19,6 @@ Produktivsystem mit Abo-Modell und bezahlenden Nutzern. Läuft 24/7 auf eigenem 
 **Discord Dashboard**  
 Web-Dashboard zum Bot — Konfiguration und Verwaltung außerhalb von Discord, ebenfalls hinter Authelia geschützt.
 
-**MTG Arbitrage**  
-Tool zum Aufspüren von Preisunterschieden bei Magic-Karten zwischen verschiedenen Marktplätzen. React/TypeScript-Frontend, Python-Backend.
-
 **Webmail**  
 Eigener Webmail-Client (Node/Svelte) für dantedi.de — kein Reskin einer Standardlösung, sondern von Grund auf selbst gebaut.
 
